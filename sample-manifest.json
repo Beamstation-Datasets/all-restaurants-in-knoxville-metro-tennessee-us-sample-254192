@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3ad68547-dcd8-481d-95e9-446111d1f159",
+  "export_job_id": "93de8b11-349b-4ff7-99c2-30fb5c8a048c",
   "id_short": 254192,
-  "published_at": "2026-04-19T07:57:49Z",
+  "published_at": "2026-04-23T19:07:50Z",
   "repo_name": "all-restaurants-in-knoxville-metro-tennessee-us-sample-254192",
   "sample_asset_name": "beamstation_254192_restaurants-us-knoxvilletn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/254192/beamstation_254192_restaurants-us-knoxvilletn_SAMPLE_DIST.csv",
-  "sample_records": 172,
-  "sample_sha256": "2a10c3eee3318c2b3fc6883ed80a2b45c42f80688aa714814aa35fdf63d7ecd6",
-  "sample_size_bytes": 678911,
-  "total_records": 1729
+  "sample_records": 130,
+  "sample_sha256": "f0fd467737ccb82eff6fa7a6756ac44b83b717389cac0ebeab25d0eea77809c5",
+  "sample_size_bytes": 520039,
+  "total_records": 1306
 }
